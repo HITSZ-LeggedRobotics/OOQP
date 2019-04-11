@@ -1,7 +1,7 @@
 # OOQP - A package for solving convex quadratic programming problems.  
 a package for QP solver
 ## build
-`MA27LIB =/usr/local/lib/libma27.a`  
+`MA27LIB=/usr/local/lib/libma27.a`  
 `export MA27LIB`  
 ` ./configure CXXFLAGS="-fPIC"`  
 `sudo make install`    
